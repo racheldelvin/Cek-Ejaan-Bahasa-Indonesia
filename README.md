@@ -1,3 +1,3 @@
-# Check-Spell-Indonesia
+# Cek-Ejaan-Indonesia
 
 Work in progress
